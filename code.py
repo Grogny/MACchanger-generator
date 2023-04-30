@@ -9,14 +9,6 @@ print(" / /  / / / ___ | / /___   / /__  / / / // /_/ /  / / / / / /_/ / /  __/ 
 print("/_/  /_/ /_/  |_| \____/   \___/ /_/ /_/ \__,_/  /_/ /_/  \__, /  \___/ /_/")
 print("                                                         /____/")
 
-# def generator():
-#     parser = optparse.OptionParser()
-#     parser.add_option("-g", "--generator", dest="mac_generator", help="create address MAC that you can use")
-#     parser.parse_args()
-#     print(RandMac("00:00:00:00:00:00"))
-#
-# generator()
-
 def get_arguments():
     parser = optparse.OptionParser()
     parser.add_option("-i", "--interface", dest="interface", help="Interface can be ether0 or wlan0")
