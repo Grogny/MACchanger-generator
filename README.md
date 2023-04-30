@@ -6,7 +6,7 @@
 
 **HOW TO USE**:
 
-1. ``git clone https://github.com/Grogny/MACchanger`` #download file 
+1. ``git clone https://github.com/Grogny/MACchanger`` #Download file 
 
 2. ``python3 MACaddress.py --interface eth0 or wlan0 --macaddress xx:xx:xx:xx:xx:xx`` #Command
 
