@@ -4,6 +4,7 @@ Work on debian terminal.
 
 
 
-HOW TO USE:
+**HOW TO USE**:
+
 git clone https://github.com/Grogny/MACchanger #download file 
-python3 code --interface eth0 / wlan0 --macaddress XX:XX:XX:XX:XX:XX
+python3 code.py --interface eth0 ``or`` wlan0 --macaddress xx:xx:xx:xx:xx:xx
