@@ -29,6 +29,4 @@ def change_mac(interface, mac_address):
     print("[+] Your new " + interface + " MAC address is now: " + mac_address + " !")
 
 options = get_arguments()
-# change_mac(options.interface, options.mac_address)
-
-ifconfig = subprocess.check_output(["ifconfig", options.interface])
+change_mac(options.interface, options.mac_address)
