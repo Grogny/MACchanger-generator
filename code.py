@@ -1,6 +1,5 @@
 import subprocess
 import optparse
-from randmac import RandMac
 
 print("    __  ___  ___     ______          __")
 print("   /  |/  / /   |   / ____/  _____  / /_   ____ _   ____    ____ _  ___    _____")
