@@ -2,7 +2,7 @@ from randmac import RandMac
 
 while True:
     nb = input("[+] How many address? (max : 9) : ")
-    if nb.isnumeric() == False:
+    if not nb.isnumeric():
         print("Please enter a number")
     elif int(nb) > 9:
         print("Max : 9, please enter a valid ammount of address")
