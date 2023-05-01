@@ -12,7 +12,7 @@ def get_arguments():
     parser = optparse.OptionParser()
     parser.add_option("-i", "--interface", dest="interface", help="Interface can be ether0 or wlan0")
     parser.add_option("-m", "--macaddress", dest="mac_address", help="Your new MAC address")
-    (options, arguments) = parser.parse_args() # options = ether0 ou wlan0 + MAC et arguments = -command
+    (options, arguments) = parser.parse_args()
 
     if not options.interface:
         parser.error("[!] Next time, specify your interface, --help for more information")
@@ -26,7 +26,7 @@ def change_mac(interface, mac_address):
     subprocess.call(["ifconfig", interface, "up"])
     subprocess.call(["ifconfig", interface])
 
-    print("[+] Your new " + interface + " MAC address is now: " + mac_address + " !")
+    print(f"[+] Your new {interface} is now {mac_address} !")
 
 options = get_arguments()
 change_mac(options.interface, options.mac_address)
