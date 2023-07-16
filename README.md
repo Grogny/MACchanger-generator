@@ -1,6 +1,7 @@
 
 **MAC Address changer and generator in Python.**
 -
+<img src="">
 *Work on $bash terminal only.*
 
 **HOW TO USE**:
@@ -9,7 +10,7 @@
 
  2. ``python3 MACgenerator.py`` #MACgenerator.py
  
- 3. ``python3 MACaddress.py --interface eth0 or wlan0 --macaddress xx:xx:xx:xx:xx:xx`` #MACaddress.py
+ 3. ``python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx`` #MACaddress.py
 
  4. Change your MAC address whithout limit!
 
