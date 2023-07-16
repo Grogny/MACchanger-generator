@@ -14,7 +14,7 @@
 3. Change your MAC address whithout limit!
 
 ---
-**MODULEs I USED**
+**MODULES I USED**
 
 - <a href="https://docs.python.org/3/library/subprocess.html"> subprocess</a>
 - <a href="https://super-devops.readthedocs.io/en/latest/misc.html"> colorama</a>
