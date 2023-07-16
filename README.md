@@ -2,7 +2,7 @@
 **MAC Address changer and generator in Python.**
 -
 
-<a>MACchanger screenshot:</a>
+<font>MACchanger screenshot:</font>
 <img src="https://github.com/Grogny/MACchanger-generator/blob/main/Esthetic/macaddress.png">
 
 *Work on $bash terminal only.*
