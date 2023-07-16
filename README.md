@@ -5,8 +5,6 @@
 -
 <img src="https://github.com/Grogny/MACchanger-generator/blob/main/Esthetic/macaddress.png">
 
-*Work on $bash terminal only.*
-
 **HOW TO USE**:
 
  1. ``git clone https://github.com/Grogny/MACchanger-generator`` #Download file 
@@ -16,6 +14,8 @@
  3. ``python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx`` #MACaddress.py
 
  4. Change your MAC address whithout limit!
+
+*Work on $bash terminal only.*
 
 ---
 **MODULES I USED**
