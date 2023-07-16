@@ -1,8 +1,8 @@
 from colorama import Fore
+
 import subprocess
 import colorama
 import optparse
-
 
 def change_mac(interface, mac_address):
     subprocess.call(["ifconfig", interface, "down"])
