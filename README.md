@@ -1,7 +1,7 @@
 
 **MAC Address changer and generator in Python.**
 -
-*Work on debian terminal.*
+*Work on $bash terminal only.*
 
 **HOW TO USE**:
 
