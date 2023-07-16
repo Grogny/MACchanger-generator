@@ -1,5 +1,5 @@
 
-**Address mac changer and generator in Python.**
+**MAC Address changer and generator in Python.**
 -
 *Work on debian terminal.*
 
