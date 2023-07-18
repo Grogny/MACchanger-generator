@@ -9,15 +9,18 @@
 -
 <img src="https://github.com/Grogny/MACchanger-generator/blob/main/Esthetic/MACgenerator.png?raw=true">
 
+---
 **HOW TO USE**:
 
- 1. ```git clone https://github.com/Grogny/MACchanger-generator``` #Download file 
+ 1. ```git clone https://github.com/Grogny/MACchanger-generator``` Clone the file
 
- 2. ``python3 MACgenerator.py`` #MACgenerator.py
+ 2. ```cd MACchanger-generator``` open the file
+
+ 3. ```python3 MACgenerator.py``` Run MACgenerator.py
  
- 3. ``python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx`` #MACaddress.py
+ 4. ```python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx``` Run MACaddress.py
 
- 4. Change your MAC address whithout limit!
+ 5. Change your MAC address whithout limit!
 
 *Work on $bash terminal only.*
 
@@ -29,3 +32,5 @@
 - <a href="https://docs.python.org/3/library/optparse.html"> optparse</a>
   
 <img src="https://media.fs.com/images/community/upload/kindEditor/202104/12/l-adresse-mac-1618209718-GYzYSMPm46.jpg">
+
+©image: <a href="https://media.fs.com">media.fs.com</a>
