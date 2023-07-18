@@ -11,7 +11,7 @@
 
 **HOW TO USE**:
 
- 1. ``git clone https://github.com/Grogny/MACchanger-generator`` #Download file 
+ 1. ```git clone https://github.com/Grogny/MACchanger-generator``` #Download file 
 
  2. ``python3 MACgenerator.py`` #MACgenerator.py
  
