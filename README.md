@@ -1,4 +1,3 @@
-
 <h1>MAC Address changer and generator in Python.</h1>
 
 **MACchanger screenshot:**
@@ -14,7 +13,7 @@
 
  1. ```git clone https://github.com/Grogny/MACchanger-generator``` Clone the file
 
- 2. ```cd MACchanger-generator``` open the file
+ 2. ```cd MACchanger-generator``` Open the file
 
  3. ```python3 MACgenerator.py``` Run MACgenerator.py
  
