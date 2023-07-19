@@ -6,7 +6,7 @@
 
 **MACgenerator screenshot:**
 -
-<img src="">
+<img src="https://github.com/Grogny/image-video-gif/blob/main/MACgenerator.png?raw=true">
 
 ---
 **HOW TO USE**:
