@@ -18,7 +18,7 @@
  3. ```python3 MACgenerator.py``` Run MACgenerator.py
  
  4. ```python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx``` Run MACaddress.py
-<p> *eth0 is your ethernet connection and wlan0 your wireless connection, choose the one you want to change!* </p>
+<p>eth0 is your ethernet connection and wlan0 your wireless connection, choose the one you want to change!</p>
 
  5. Change your MAC address whithout limit!
 
