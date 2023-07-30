@@ -33,7 +33,6 @@ python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx
 ```
 
 <p>Change your MAC address whithout limit!</p>
-
 *Work on $bash terminal only.*
 
 ---
