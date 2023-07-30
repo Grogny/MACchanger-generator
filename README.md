@@ -9,30 +9,29 @@
 <img src="https://github.com/Grogny/image-video-gif/blob/main/MACgenerator.png?raw=true">
 
 ---
-**HOW TO USE**:
-*Work on $bash terminal only.*
+**Usage**:
+<p>Work on $bash terminal only.</p>
 
-Clone the file
+Clone the file:
 ```bash
 git clone https://github.com/Grogny/MACchanger-generator
 ```
 
-Open the file
+Open the file:
 ```bash
 cd MACchanger-generator
 ``` 
 
-Run MACgenerator.py
+Run MACgenerator.py:
 ```bash
 python3 MACgenerator.py
 ```
-Run MACaddress.py
+Run MACaddress.py:
 ```bash
 python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx
 ```
 
 <p><strong>eth0</strong> is your ethernet connection and <strong>wlan0</strong> your wireless connection, choose the one you want to change!</p>
-
 <p>Change your MAC address whithout limit!</p>
 
 ---
