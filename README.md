@@ -9,7 +9,7 @@
 <img src="https://github.com/Grogny/image-video-gif/blob/main/MACgenerator.png?raw=true">
 
 ---
-**Usage**:
+**Usage:**
 
 Clone the file:
 ```bash
@@ -36,7 +36,7 @@ python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx
 *Work on $bash terminal only.*
 
 ---
-**MODULES I USED**
+**MODULES I USED:**
 
 - <a href="https://docs.python.org/3/library/subprocess.html"> subprocess</a>
 - <a href="https://super-devops.readthedocs.io/en/latest/misc.html"> colorama</a>
