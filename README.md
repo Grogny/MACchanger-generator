@@ -10,6 +10,7 @@
 
 ---
 **HOW TO USE**:
+*Work on $bash terminal only.*
 
 Clone the file
 ```bash
@@ -30,11 +31,9 @@ Run MACaddress.py
 python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx
 ```
 
-<p>eth0 is your ethernet connection and wlan0 your wireless connection, choose the one you want to change!</p>
+<p><strong>eth0</strong> is your ethernet connection and <strong>wlan0</strong> your wireless connection, choose the one you want to change!</p>
 
-Change your MAC address whithout limit!
-
-*Work on $bash terminal only.*
+<p>Change your MAC address whithout limit!</p>
 
 ---
 **MODULES I USED**
