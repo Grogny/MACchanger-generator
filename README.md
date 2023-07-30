@@ -13,13 +13,23 @@
 
 ```bash
 git clone https://github.com/Grogny/MACchanger-generator
-``` Clone the file
+```
+Clone the file
 
-```cd MACchanger-generator``` Open the file
+```bash
+cd MACchanger-generator
+``` 
+Open the file
 
-```python3 MACgenerator.py``` Run MACgenerator.py
+```bash
+python3 MACgenerator.py
+```
+Run MACgenerator.py
  
-```python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx``` Run MACaddress.py
+```bash
+python3 MACaddress.py --interface eth0 | wlan0 --macaddress xx:xx:xx:xx:xx:xx
+```
+Run MACaddress.py
 <p>eth0 is your ethernet connection and wlan0 your wireless connection, choose the one you want to change!</p>
 
  5. Change your MAC address whithout limit!
