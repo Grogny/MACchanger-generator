@@ -2,11 +2,11 @@
 
 **MACchanger screenshot:**
 -
-<img src="https://github.com/Grogny/image-video-gif/blob/main/macaddress.png?raw=true">
+<img src="https://github.com/Grogny/image-video-gif/blob/main/macaddress.png">
 
 **MACgenerator screenshot:**
 -
-<img src="https://github.com/Grogny/image-video-gif/blob/main/MACgenerator.png?raw=true">
+<img src="https://github.com/Grogny/image-video-gif/blob/main/MACgenerator.png">
 
 ---
 **Usage:**
