@@ -1,4 +1,4 @@
-<h1>MAC Address changer and generator in Python.</h1>
+<h1><center>MAC Address changer and generator in Python</center></h1>
 
 **MACchanger screenshot:**
 -
